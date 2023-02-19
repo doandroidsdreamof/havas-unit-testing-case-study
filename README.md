@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Young-Coders-Unit-Testing-Case/h1>
+  <h1>Young-Coders-Unit-Testing-Case</h1>
 
 <br />
 
@@ -8,7 +8,7 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-  - [Screenshots](#camera-screenshots)
+ [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
 - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
