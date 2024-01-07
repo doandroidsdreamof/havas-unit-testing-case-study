@@ -147,14 +147,6 @@ https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 - [x] E2E Testing
 - [x] Unit Testing
 
-
-
-<!-- Contact -->
-
-## :handshake: Contact
-
-mutlukuytuoglu@gmail.com
-
 <!-- Acknowledgments -->
 
 ## :gem: Acknowledgements
